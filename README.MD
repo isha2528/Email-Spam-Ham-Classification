@@ -1,11 +1,28 @@
 ## Project Presentation
-
-![Slide 2](presentation/Slide2.png)
-![Slide 3](presentation/Slide3.png)
-![Slide 4](presentation/Slide4.png)
-![Slide 5](presentation/Slide5.png)
-![Slide 6](presentation/Slide6.png)
-![Slide 7](presentation/Slide7.png)
-![Slide 8](presentation/Slide8.png)
-![Slide 9](presentation/Slide9.png)
-![Slide 10](presentation/Slide10.png)
+<p align="center">
+  <img src="presentation/Slide2.PNG" width="800" alt="Project Overview Slide">
+</p>
+<p align="center">
+  <img src="presentation/Slide3.PNG" width="800" alt="Project Overview Slide">
+</p>
+<p align="center">
+  <img src="presentation/Slide4.PNG" width="800" alt="Project Overview Slide">
+</p>
+<p align="center">
+  <img src="presentation/Slide5.PNG" width="800" alt="Project Overview Slide">
+</p>
+<p align="center">
+  <img src="presentation/Slide6.PNG" width="800" alt="Project Overview Slide">
+</p>
+<p align="center">
+  <img src="presentation/Slide7.PNG" width="800" alt="Project Overview Slide">
+</p>
+<p align="center">
+  <img src="presentation/Slide8.PNG" width="800" alt="Project Overview Slide">
+</p>
+<p align="center">
+  <img src="presentation/Slide9.PNG" width="800" alt="Project Overview Slide">
+</p>
+<p align="center">
+  <img src="presentation/Slide10.PNG" width="800" alt="Project Overview Slide">
+</p>
